@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshBose](https://github.com/DivyanshBose)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, IEEE**
 
 - 📫 How to reach me **dbose0106@gmail.com**
 
