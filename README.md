@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Divyansh Bose</h1>
-<h3 align="center">A passionate and enthusiast developer, always ready to learn new things</h3>
+<h3 align="center">A passionate and enthusiast developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshbose&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshbose" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshbose" alt="divyanshbose" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/divyanshbose" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshbose?logo=twitter&style=for-the-badge" alt="divyanshbose" /></a> </p>
 
 - 🔭 I’ve done various projects like [Twitter Sentiment Analysis](https://github.com/DivyanshBose/DataScience-Project-Twitter-Sentiment-Analysis)
 
 - 🌱 I’m currently learning **Django**
 
+- 🔭 I’ve done various projects like [Visual Motion Analysis Using Images and Videos](https://github.com/DivyanshBose/VisualMotionAnalysis)
+
+- 🔭 I’ve done various projects like [IT Device Management System](https://github.com/DivyanshBose/IT-DMS)
+
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshBose](https://github.com/DivyanshBose)
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **dbose@gmail.com**
+- 📫 How to reach me **dbose0106@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uR55NC6V2PofsVRAMbJwWYJiB9X7vfI_/view?usp=sharing](https://drive.google.com/file/d/1uR55NC6V2PofsVRAMbJwWYJiB9X7vfI_/view?usp=sharing)
 
