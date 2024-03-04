@@ -8,8 +8,10 @@
 <p align="left"> <a href="https://twitter.com/divyanshbose" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshbose?logo=twitter&style=for-the-badge" alt="divyanshbose" /></a> </p>
 
 - 🔭 I’ve done various projects like :-   1. [Twitter Sentiment Analysis](https://github.com/DivyanshBose/DataScience-Project-Twitter-Sentiment-Analysis)
-                                          2. [Visual Motion Analysis Using Images and Videos](https://github.com/DivyanshBose/VisualMotionAnalysis)
-                                          3. [IT Device Management System](https://github.com/DivyanshBose/IT-DMS)
+                                          
+    2. [Visual Motion Analysis Using Images and Videos](https://github.com/DivyanshBose/VisualMotionAnalysis)
+                                          
+    3. [IT Device Management System](https://github.com/DivyanshBose/IT-DMS)
   
 - 🌱 I’m currently learning **Django**
 
